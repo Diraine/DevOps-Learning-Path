@@ -1,1 +1,1 @@
-- [working-with-shell]([docs/02-Working-With-Shell-Part-I/04-lab-working-with-shell.md](https://github.com/Diraine/linux-basics-course/blob/master/docs/02-Working-With-Shell-Part-I/04-lab-working-with-shell.md))
+- [working-with-shell](https://github.com/Diraine/linux-basics-course/blob/master/docs/02-Working-With-Shell-Part-I/04-lab-working-with-shell.md))
