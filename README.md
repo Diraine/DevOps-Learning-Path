@@ -1,5 +1,5 @@
 # DevOps-Learning-Path
-- [01-DevOps-pre-requisite-course](docs/01-DevOps-pre-requisite-course)
+- [01-DevOps-pre-requisite-course](/docs/01-DevOps-pre-requisite-course)
 
    - [01-linux-basics-labs.md](/docs/devops-prerequisite-course/01-linux-basics-labs.md)
    - 02-networking-basics-labs.md
