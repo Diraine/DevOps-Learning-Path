@@ -1,5 +1,5 @@
 
-###Working with Shell###
+### Working with Shell ###
 - [01-working-with-shell-1](https://github.com/Diraine/linux-basics-course/blob/master/docs/02-Working-With-Shell-Part-I/04-lab-working-with-shell.md)
 - [02-linux-bash-shell](https://github.com/Diraine/linux-basics-course/blob/master/docs/02-Working-With-Shell-Part-I/06-Lab-Linux-Bash-Shell.md)  
 ### Linux Core Concepts ###
