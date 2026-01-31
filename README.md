@@ -20,8 +20,8 @@ This learning path is structured as a **progressive journey**, starting from cor
 ## 🧱 Step 1: Build Strong Foundations  
 **Focus:** DevOps fundamentals, networking, and application basics
 
-- **DevOps Pre-Requisite Course**  
-  _80 lessons_
+- **[DevOps Pre-Requisite Course](docs/devops-prerequisite-course)**  
+  
 
 - **Fundamentals of DevOps**  
   _38 lessons_
