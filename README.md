@@ -13,7 +13,7 @@ This learning path is structured as a **progressive journey**, starting from cor
  
  <details><ul>
   <li><a href="docs/devops-prerequisite-course/linux-basics-labs">01-linux-basics</a></li>
-  <li><a href="/docs/devops-prerequisite-course/02-networking-basics-labs.md">02-networking-basics</a></li>
+  <li><a href="/docs/devops-prerequisite-course/02-networking-basics-labs">02-networking-basics</a></li>
   <li><a href="/docs/devops-prerequisite-course/03-applications-basics-labs.md">03-applications-basics</a></li>
   <li><a href="/docs/devops-prerequisite-course/04-source-code-management-labs.md">04-source-code-management</a></li>
   <li><a href="/docs/devops-prerequisite-course/05-web-server.md">05-web-server</a></li>
