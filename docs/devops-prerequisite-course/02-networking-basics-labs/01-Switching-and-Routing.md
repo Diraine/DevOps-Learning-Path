@@ -11,7 +11,19 @@ From the `route` command, we can see the route table of the host system.
 4. Which of the following is preferred device to connect two system which are on different networks?
 For example, if System A is on 192.168.1.0/24 network and System B is on 192.168.2.0/24 network.
 ```
-It is a **router**, which helps us to connect two networks together
+It is a 'router', which helps us to connect two networks together
 like network A can be reached to the different network B with the help of a router.
 ```
-5. 
+5. Can a gateway connect a system to the internet? `Yes`
+6. We have four app server from `app01 to app04`. You can access each app only from `jump host` using command `ssh app01` and similarly for other apps. Assign new IPs to each host as per details given below:
+
+a. Assign `172.16.238.15/24` ip address to `app01`  
+b. Assign `172.16.238.16/24` ip address to `app02`  
+c. Assign 172.16.239.15/24 ip address to `app03`  
+d. Assign `172.16.239.16/24` ip address to `app04`  
+e. We also need to remove existing IPs from these apps after assigning them new IPs but do not remove them right now as it can break your connection, if you are sure you are done with required changes just click on `Check `button below, it will do the rest.  
+Note: Please don't change the jump host IP.  
+`Warning: If changes aren't made correctly it can break your connection to the environment and you may need to reload the lab.`
+
+7. 
+
