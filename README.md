@@ -42,7 +42,7 @@ This learning path is structured as a **progressive journey**, starting from cor
 - **Python Basics**  
   _77 lessons_
 
-- **Shell Scripts for Beginners**  
+- **[Shell Scripts for Beginners](docs/learn-programming-and-scripting/shell-scripting-for-beginner.md)**  
   _35 lessons_
 
 🎯 *Outcome:* Ability to automate tasks, write scripts, and understand backend tooling.
